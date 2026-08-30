@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 
 auth_system.db
+
+file_crypto_log.db
