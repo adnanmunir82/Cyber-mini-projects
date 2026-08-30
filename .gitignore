@@ -1,3 +1,5 @@
 password_vault.json
 __pycache__/
 *.pyc
+
+auth_system.db
