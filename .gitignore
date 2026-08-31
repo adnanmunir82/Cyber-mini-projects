@@ -5,3 +5,7 @@ __pycache__/
 auth_system.db
 
 file_crypto_log.db
+
+vault_config.json
+vault_metadata.db
+vault_files/
