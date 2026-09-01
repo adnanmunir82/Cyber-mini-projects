@@ -10,3 +10,4 @@ vault_config.json
 vault_metadata.db
 vault_files/
 phishing_history.db
+spam_history.db
