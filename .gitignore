@@ -12,3 +12,4 @@ vault_files/
 phishing_history.db
 spam_history.db
 scan_history.db
+sniffer_history.db
