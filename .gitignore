@@ -14,3 +14,4 @@ spam_history.db
 scan_history.db
 sniffer_history.db
 ip_tracker_history.db
+qr_login.db
